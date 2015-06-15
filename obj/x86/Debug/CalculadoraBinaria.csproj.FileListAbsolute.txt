@@ -1,0 +1,7 @@
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\bin\Debug\Calculadora010.exe
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\bin\Debug\Calculadora010.pdb
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.Form1.resources
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.Properties.Resources.resources
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\CalculadoraBinaria.csproj.GenerateResource.Cache
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.exe
+C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.pdb
