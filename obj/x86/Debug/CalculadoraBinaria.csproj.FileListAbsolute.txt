@@ -5,3 +5,5 @@ C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora01
 C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\CalculadoraBinaria.csproj.GenerateResource.Cache
 C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.exe
 C:\Users\ana\Desktop\CalculatorBinary\Calculadora010\obj\x86\Debug\Calculadora010.pdb
+C:\Users\ana\Documents\GitHub\CalculadoraBinaria\obj\x86\Debug\Calculadora010.exe
+C:\Users\ana\Documents\GitHub\CalculadoraBinaria\obj\x86\Debug\Calculadora010.pdb
